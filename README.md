@@ -11,3 +11,4 @@
 * Add how-to section on if Gmail user is utilizing 2fa (generating and using app password, etc.)
 * Add how-to section on using template.txt properly
 * Add multiple examples with data files (towards the completion of the first version)
+* Create web GUI to mass-send emails using Flask framework
